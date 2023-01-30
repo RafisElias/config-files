@@ -7,3 +7,6 @@
 [submodule "helix"]
 	path = helix
 	url = https://github.com/RafisElias/helix.git
+[submodule "kitty-terminal"]
+	path = kitty-terminal
+	url = https://github.com/RafisElias/kitty-terminal
