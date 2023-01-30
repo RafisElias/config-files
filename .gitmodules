@@ -4,3 +4,6 @@
 [submodule "terminator"]
 	path = terminator
 	url = https://github.com/RafisElias/terminator
+[submodule "helix"]
+	path = helix
+	url = https://github.com/RafisElias/helix.git
